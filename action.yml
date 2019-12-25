@@ -1,5 +1,5 @@
-name: 'Stop Sfhiter WordPress'
-description: 'Stop Sfhiter WordPress'
+name: 'Stop Shifter WordPress'
+description: 'Stop Shifter WordPress'
 runs:
   using: 'docker'
   image: 'Dockerfile'

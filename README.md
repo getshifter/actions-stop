@@ -1,6 +1,6 @@
 # getshifter/actions-stop
 
-Start / Sfhiter WordPress action
+Start / Shifter WordPress action
 
 Start Shifter's WordPress and store WordPress URL in the outputs SHIFTER_APP_URL. If WordPress is already running, get the URL.
 
