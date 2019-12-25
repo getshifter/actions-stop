@@ -3,3 +3,6 @@ description: 'Stop Sfhiter WordPress'
 runs:
   using: 'docker'
   image: 'Dockerfile'
+branding:
+  icon: stop-circle
+  color: purple
